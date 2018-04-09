@@ -1,0 +1,12 @@
+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ž‘Ù´úÿÿÿÿ8ºçÕË¥,
+1squid:S1220""Move this file to a named package.
+gsquid:S1192"FDefine a constant instead of duplicating this literal "LATAM" 5 times.(”ÎÁúÿÿÿÿ8’ßßÊ¥,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‚­„8úô²Ë¥,
+csquid:S1192"GDefine a constant instead of duplicating this literal "EUROPA" 3 times.(·óÝ†8’ßßÊ¥,
+csquid:S1192"GDefine a constant instead of duplicating this literal "AFRICA" 3 times.(‡¥³8’ßßÊ¥,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(…­§ûÿÿÿÿ8­ÃØË¥,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(áãÝûÿÿÿÿ8äáïÊ¥,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(û­ö*8­šàË¥,
+jsquid:S1192"NDefine a constant instead of duplicating this literal "NORTH AMERICA" 3 times.(×²ŽÁ8’ßßÊ¥,
